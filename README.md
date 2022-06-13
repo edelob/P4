@@ -25,3 +25,5 @@ Voici les points sur lesquels tu devras travailler :
     Ce rapport devra inclure les comparaisons pour les 10 recommandations.
 
 Tu l’imagines, tous ces éléments devront être codés en HTML et CSS. Fais également attention à ce que le site soit toujours adapté à toutes les tailles d’écran après tes modifications.
+
+Le site est dispo sur github pages à cette adresse : https://edelob.github.io/P4/
